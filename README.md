@@ -1,1 +1,1 @@
-Press "Space" to bring back the GUI
+Press "Space" to show/hide GUI
